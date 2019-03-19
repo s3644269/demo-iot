@@ -2,9 +2,8 @@
 
 In this week, we introduce:
 
-* reading inputs using input()
-* how to read in character arrays
-* how to write for loops in python
+* reading JSON and using requests for JSONPlaceholder
+* We introduce logging and debugger
+* how to read super/sub classes
 
 ---
-For next week, we will talk about OOP python and more...
